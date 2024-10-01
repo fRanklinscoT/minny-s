@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
+
+.gupter-regular {
+  font-family: "Gupter", serif;
+  font-style: normal;
+}
+
+.gupter-medium {
+  font-family: "Gupter", serif;
+  font-style: normal;
+}
+
+.gupter-bold {
+  font-family: "Gupter", serif;
+  font-style: normal;
+}
+html{
+  background-color: #1f2428;
+}
